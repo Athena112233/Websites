@@ -1,0 +1,22 @@
+*{
+    border-width: 5px;
+}
+html, body{
+    background-color: beige;
+    font-family: Helvetica;
+    font-weight: normal;
+}
+
+h1{
+    color: green;
+    text-align: center;
+
+}
+
+section{
+    text-align: center;
+    font-style: oblique;
+    color: green;
+    justify-content: clear;
+    border: black 10px;
+}
